@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>Label</key>
-  <string>com.ddupd.update</string>
+  <string>com.canishe.ddupd</string>
   <key>ProgramArguments</key>
   <array>
     <string>/usr/local/bin/ddupd</string>
